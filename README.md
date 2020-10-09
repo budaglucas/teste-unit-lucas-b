@@ -10,7 +10,7 @@ In this test you are asked to build an API to manage customers. This API must pr
 * Count customers: must return the total count of customers on the database;
 
 
-# Instructions
+## Instructions
 
 The project is already connected to the database but no entity is provided or previously created. You must define your entity and apply the migration to the database to perform its creation. 
 
@@ -26,7 +26,7 @@ The minimum required fields for customer entity are:
 *Position
 *Phone number
 
-# Reference material
+## Reference material
 
 This project is based on nest.js. Here are some reference links to provide assistance:
 

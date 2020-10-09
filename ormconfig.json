@@ -1,0 +1,14 @@
+[
+  {
+    "name": "default",
+    "type": "postgres",
+    "host": "unitdb.ccmklozbjxxg.sa-east-1.rds.amazonaws.com",
+    "port": 5432,
+    "username": "test",
+    "password": "test",
+    "database": "dev",
+    "schema": "test",
+    "synchronize": false,
+    "entities": ["src/entity/*.ts"]
+  }
+]
