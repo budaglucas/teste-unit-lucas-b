@@ -14,7 +14,7 @@ In this test you are asked to build an API to manage customers. This API must pr
 
 The project is already connected to the database but no entity is provided or previously created. You must define your entity and apply the migration to the database to perform its creation. 
 
-Before you start, create a new branch named: UNIT_<FirstName>_<Surname initials>.
+Before you start, create a new branch named: UNIT_[FirstName]_[Surname initials].
 
 The customer entity's table name must follow this rule: customer_<your first name>_<surname initials>. For instance, in case you name is John Doe the table should be named "customer_john_d".
   
