@@ -35,4 +35,3 @@ This project is based on nest.js. Here are some reference links to provide assis
 * https://github.com/typeorm/typeorm
 * https://auth0.com/blog/developing-a-secure-api-with-nestjs-getting-started/
 
-* https://auth0.com/blog/developing-a-secure-api-with-nestjs-getting-started/
