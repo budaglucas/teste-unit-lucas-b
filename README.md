@@ -12,5 +12,27 @@ In this test you are asked to build an API to manage customers. This API must pr
 
 # Instructions
 
-The project is already connected to the database but no entity is provided or previously created. You must define your entity and apply the migration to the database to perform its creation. The entity name must follow this rule: customer_<your first name>_<surname initials>. For instance, in case you name is John Doe the table should be named "customer_john_d".
+The project is already connected to the database but no entity is provided or previously created. You must define your entity and apply the migration to the database to perform its creation. 
+
+Before you start, create a new branch named: UNIT_<FirstName>_<Surname initials>.
+
+The customer entity's table name must follow this rule: customer_<your first name>_<surname initials>. For instance, in case you name is John Doe the table should be named "customer_john_d".
   
+The minimum required fields for customer entity are:
+*Name
+*Date of birth
+*E-mail address
+*Company name
+*Position
+*Phone number
+
+# Reference material
+
+This project is based on nest.js. Here are some reference links to provide assistance:
+
+* https://docs.nestjs.com/
+* https://docs.nestjs.com/techniques/database
+* https://github.com/typeorm/typeorm
+* https://auth0.com/blog/developing-a-secure-api-with-nestjs-getting-started/
+
+* https://auth0.com/blog/developing-a-secure-api-with-nestjs-getting-started/
