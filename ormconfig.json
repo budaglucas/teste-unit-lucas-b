@@ -9,6 +9,6 @@
     "database": "dev",
     "schema": "test",
     "synchronize": false,
-    "entities": ["src/entity/*.ts"]
+    "entities": ["dist/**/*.entity{.ts,.js}"]
   }
 ]
